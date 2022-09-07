@@ -1,0 +1,9 @@
+/* coloring text */
+
+body{
+	background-color: #fdffda;
+}
+
+.bg-custom {
+	background: #2a464b!important;
+}
